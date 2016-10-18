@@ -85,8 +85,19 @@ To play Game the Progress as a student, follow the above Heroku link, create a n
 
 ## Copyright and Licensing Information
 
-Game the Progress is available under the MIT license. See license.md for more information.
+Game the Progress is available under the MIT license. 
 
+
+## Screen Shots
+
+Home Page part 1 (Profile Page)
+![home page](gtp1.png)
+
+Home Page part 2
+![home page](gtp2.png)
+
+Game Page, Projector View
+![home page](gtp3.png)
 
 
 
